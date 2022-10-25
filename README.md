@@ -1,4 +1,4 @@
-<center><span style='font-size:4rem;font-family:楷体;'>数据库作业</span>
+# 数据库作业
 <br/><br/><br/><br/>
 
 <p>
@@ -7,6 +7,9 @@
 <p>
     <center><span style='font-size:2rem;font-family:楷体;'>学号：             <ins>2020141460292</ins>                            </span></center>
 </p>
+[TOC]
+
+
 
 ## 第一次作业
 
@@ -24,7 +27,7 @@ order by
     ShipName;
 ```
 
-![Q1](.\第一次作业\result\Q1.png)
+![Q1](./第一次作业/result/Q1.png)
 
 ### Q2
 
@@ -42,7 +45,7 @@ Limit
     20 offset 15445 -10248;
 ```
 
-![Q2](.\第一次作业\result\Q2.png)
+![Q2](./第一次作业/result/Q2.png)
 
 ### Q3
 
@@ -82,9 +85,9 @@ Order By
 	ratio DESC;
 ```
 
- [Q3.sql](第一次作业\Q3.sql) 
+ [Q3.sql](第一次作业/Q3.sql) 
 
-![Q3](.\第一次作业\result\Q3.png)
+![Q3](./第一次作业/result/Q3.png)
 
 ### Q4
 
@@ -108,7 +111,7 @@ HAVING
     sum > 10
 ```
 
-![Q4](.\第一次作业\result\Q4.png)
+![Q4](./第一次作业/result/Q4.png)
 
 ### Q5
 
@@ -146,7 +149,7 @@ FROM
     )
 ```
 
-![Q5](.\第一次作业\result\Q5.png)
+![Q5](./第一次作业/result/Q5.png)
 
 ### Q6
 
@@ -185,7 +188,7 @@ LIMIT
     10
 ```
 
-![Q6](.\第一次作业\result\Q6.png)
+![Q6](./第一次作业/result/Q6.png)
 
 ### Q7
 
@@ -222,7 +225,7 @@ WHERE
     ntiles = 1
 ```
 
-![Q7](.\第一次作业\result\Q7.png)
+![Q7](./第一次作业/result/Q7.png)
 
 ### Q8
 
@@ -245,4 +248,4 @@ GROUP BY
     Region.Id
 ```
 
-![Q8](.\第一次作业\result\Q8.png)
+![Q8](./第一次作业/result/Q8.png)
