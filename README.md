@@ -1,5 +1,4 @@
 # 数据库作业
-<br/><br/><br/><br/>
 
 <p>
 <p><center><span style='font-size:2rem;font-family:楷体;'>姓名：             <ins>王帮文</ins>                            </span></center></p>
@@ -8,6 +7,7 @@
     <center><span style='font-size:2rem;font-family:楷体;'>学号：             <ins>2020141460292</ins>                            </span></center>
 </p>
 
+<br/><br/><br/><br/>
 
 - [数据库作业](#数据库作业)
   - [第一次作业](#第一次作业)
