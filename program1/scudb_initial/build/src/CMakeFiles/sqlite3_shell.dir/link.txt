@@ -1,0 +1,1 @@
+/usr/bin/cc -rdynamic CMakeFiles/sqlite3_shell.dir/sqlite/shell.c.o -o ../bin/sqlite3  -Wl,-rpath,/mnt/hgfs/os_share/database/program1/scudb_initial/build/lib ../lib/libsqlite3.so -lpthread -ldl 
