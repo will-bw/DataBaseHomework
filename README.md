@@ -14,6 +14,7 @@
     - [extendible\_hash\_test](#extendible_hash_test)
     - [buffer\_pool\_manager\_test](#buffer_pool_manager_test)
     - [lru\_replacer\_test](#lru_replacer_test)
+  - [第二次编程](#第二次编程)
   - [第一次作业](#第一次作业)
     - [Q1](#q1)
     - [Q2](#q2)
@@ -23,6 +24,7 @@
     - [Q6](#q6)
     - [Q7](#q7)
     - [Q8](#q8)
+
 
 ## 第一次编程作业
 
@@ -37,6 +39,10 @@
 ### lru_replacer_test
 
 ![lru_replacer_test](./program1/result_images/lru_replacer_test.png)
+
+## 第二次编程
+
+![result](./program2/result_images/result.png)
 
 ## 第一次作业
 
